@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "stuid": "1",
+      "username": "ram",
+      "password": "1234",
+      "id": "fc71"
+    },
+    {
+      "stuid": "2",
+      "username": "sridhar",
+      "password": "sridhar@2003",
+      "id": "2dfe"
+    },
+    {
+      "id": "76de",
+      "username": "000",
+      "password": "000",
+      "stuid": "000"
+    }
+  ],
+  "students": [
+    {
+      "id": "78a3",
+      "rollno": "21CS105",
+      "name": "Srikanth R",
+      "age": "21",
+      "address": "kalingapatti"
+    },
+    {
+      "id": "6a43",
+      "rollno": "21CS106",
+      "name": "Ram",
+      "age": "21",
+      "address": "kovilpatti"
+    },
+    {
+      "id": "95c1",
+      "rollno": "18",
+      "name": "Munies",
+      "age": "11",
+      "address": "kalingapatti"
+    },
+    {
+      "id": "9f9a",
+      "rollno": "3",
+      "name": "Atham",
+      "age": "12",
+      "address": "Tvm"
+    },
+    {
+      "id": "1904",
+      "rollno": "21CS104",
+      "name": "Sridher",
+      "age": "23",
+      "address": "Sattur"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "96fc",
+      "subimg": "https://th.bing.com/th?id=OIP.WiiG7a5OS-rsV-FVcD5XOAHaKl&w=209&h=298&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "subname": "Tam",
+      "subteach": "Sutha",
+      "submat": "link"
+    },
+    {
+      "id": "9513",
+      "subimg": "https://www.bing.com/ck/a?!&&p=7732c3d8c8d232ebJmltdHM9MTcxMDcyMDAwMCZpZ3VpZD0xN2FkODY2Ni0yZjM3LTZiNDMtMzZlYy05NTgzMmVjMDZhNTQmaW5zaWQ9NTU2Nw&ptn=3&ver=2&hsh=3&fclid=17ad8666-2f37-6b43-36ec-95832ec06a54&u=a1L2ltYWdlcy9zZWFyY2g_cT10YW1pbCUyMGJvb2slMjBpbWFnZXMmRk9STT1JUUZSQkEmaWQ9NTY3NTVFNkMzOEExOUVDQTMyMkY0QTk4RTExMEMxRkY1Mzk5Mzc3Rg&ntb=1",
+      "subname": "ENG",
+      "subteach": "Ram",
+      "submat": "link"
+    }
+  ]
+}
